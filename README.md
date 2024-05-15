@@ -9,11 +9,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="/images/whatsapp.png" href="https://wa.me/qr/OI26QJNBJSEYF1" width="30px">
-  <img src="/images/whatsapp.png" href="https://wa.me/qr/OI26QJNBJSEYF1" width="30px">
-</div>
-
 <div style="display: flex;" align="center">
     [![whatsapp](/images/whatsapp.png)](https://wa.me/qr/OI26QJNBJSEYF1)
     [![linked-in](/images/linked-in.png)](www.linkedin.com/in/mofokengtt21)
