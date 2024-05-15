@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<div style="display: flex;" align="center">
-    [![whatsapp](/images/whatsapp.png)](https://wa.me/qr/OI26QJNBJSEYF1)
-    [![linked-in](/images/linked-in.png)](www.linkedin.com/in/mofokengtt21)
+<div align="center">
+  [![WhatsApp](/images/whatsapp.png)](https://wa.me/qr/OI26QJNBJSEYF1)
+  [![LinkedIn](/images/linkedin.png)](www.linkedin.com/in/mofokengtt21)
 </div>
