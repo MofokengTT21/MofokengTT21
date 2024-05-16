@@ -2,8 +2,6 @@
 <!-- <h2 align='center'>Tshepo Mofokeng @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Johannesburg, Gauteng</b></p> -->
 
-[![](https://visitcount.itsvg.in/api?id=MofokengTT21&icon=0&color=9)](https://visitcount.itsvg.in)
-
 <div>
 </b> <br/>
   <p align="center">
