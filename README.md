@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://wa.me/qr/OI26QJNBJSEYF1"><img src="/images/whatsapp.png" alt="WhatsApp" style="margin-right: 20px;" width="30px"></a>
-  <a href="https://www.linkedin.com/in/mofokengtt21"><img src="/images/linkedin.png" alt="LinkedIn" width="30px"></a>
+  <a href="https://wa.me/qr/OI26QJNBJSEYF1"><img src="/images/whatsapp.png" alt="WhatsApp" width="40px"></a>
+  <a href="https://www.linkedin.com/in/mofokengtt21"><img src="/images/linked-in.png" alt="LinkedIn" width="40px"></a>
 </div>
 
