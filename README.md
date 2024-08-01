@@ -3,7 +3,7 @@
 <p align='center'><b>Graduate Student at University of Johannesburg, Gauteng</b></p> -->
 <div style="display: flex; gap: 10px;">
   <img src="/images/pizza-website.png"  width="200">
-  <img src="/images/ML_Project_Post.png.png"  width="200">
+  <img src="/images/ml.png"  width="200">
 </div>
 <div>
 </b> <br/>
