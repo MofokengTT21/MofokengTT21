@@ -1,8 +1,9 @@
 ![Tshepo's Banner Image](/images/banner.png)
 <!-- <h2 align='center'>Tshepo Mofokeng</h2>
 <p align='center'><b>Graduate Student at University of Johannesburg, Gauteng</b></p> -->
-<div>
-  <img src="/images/pizza-website.png"  width="80">
+<div style="display: flex; gap: 10px;">
+  <img src="/images/pizza-website.png"  width="200">
+  <img src="/images/ML_Project_Post.png.png"  width="200">
 </div>
 <div>
 </b> <br/>
