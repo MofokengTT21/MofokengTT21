@@ -1,9 +1,11 @@
 ![Tshepo's Banner Image](/images/banner.png)
 <!-- <h2 align='center'>Tshepo Mofokeng</h2>
 <p align='center'><b>Graduate Student at University of Johannesburg, Gauteng</b></p> -->
-<div style="display: flex; gap: 10px;">
-  <img src="/images/pizza-website.png"  width="200">
-  <img src="/images/ml.png"  width="200">
+<div align="center">
+  <h3> Websites</h3>
+  <a href="https://mofokengtt21.github.io/pizza-cart-with-api/"><img src="/images/pizza-website.png"  width="200"></a>
+  <a href="https://mofokengtt21.github.io/ml-decision-tree-regressor/"><img src="/images/ml.png"  width="245"></a><br>
+  <a href="https://github.com/MofokengTT21?tab=repositories"><img src="/images/view-more.png" width="100"></a>
 </div>
 <div>
 </b> <br/>
