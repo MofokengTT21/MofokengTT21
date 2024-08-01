@@ -4,8 +4,8 @@
 <div align="center">
   <h3> Websites</h3>
   <a href="https://mofokengtt21.github.io/pizza-cart-with-api/"><img src="/images/pizza-website.png"  width="200"></a>
-  <a href="https://mofokengtt21.github.io/ml-decision-tree-regressor/"><img src="/images/ml.png"  width="245"></a><br>
-  <a href="https://github.com/MofokengTT21?tab=repositories"><img src="/images/view-more.png" width="100"></a>
+  <a href="https://mofokengtt21.github.io/ml-decision-tree-regressor/"><img src="/images/ml.png"  width="245"></a><br><br>
+  <a href="https://github.com/MofokengTT21?tab=repositories"><img src="/images/view-more.png" width="90"></a>
 </div>
 <div>
 </b> <br/>
